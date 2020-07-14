@@ -1,5 +1,0 @@
-a=input("Enter back gasolin a:")
-b=input("Enter Consumption gasolin b:")
-
-s=(a/b)*100
-print(s)
